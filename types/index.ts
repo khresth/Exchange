@@ -65,6 +65,7 @@ export interface Trade {
   price: string;
   amount: string;
   total: string;
+  fee?: string;
   timestamp: number;
 }
 
