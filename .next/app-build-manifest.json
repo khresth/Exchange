@@ -11,20 +11,25 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/(dashboard)/portfolio/page": [
+    "/(dashboard)/markets/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/portfolio/page.js"
+      "static/chunks/app/(dashboard)/markets/page.js"
     ],
     "/(dashboard)/trade/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(dashboard)/trade/page.js"
     ],
-    "/(dashboard)/markets/page": [
+    "/(dashboard)/portfolio/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/markets/page.js"
+      "static/chunks/app/(dashboard)/portfolio/page.js"
+    ],
+    "/(dashboard)/history/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dashboard)/history/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
